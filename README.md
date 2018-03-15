@@ -1,2 +1,2 @@
 # Que
-Progress of the Que website.
+Progress of the Que app.
